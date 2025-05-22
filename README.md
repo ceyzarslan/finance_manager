@@ -37,7 +37,7 @@ A modern, user-friendly personal finance management application built with Pytho
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/finance_manager.git
+git clone https://github.com/ceyzarslan/finance_manager.git
 cd finance_manager
 ```
 
@@ -187,4 +187,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ceyda Özarslan - [@ceydaozarslan](https://www.linkedin.com/in/ceydaozarslan/)
 
-Project Link: [https://github.com/ceyzarslan/finance_manager](https://github.com/yourusername/finance_manager) 
+Project Link: [https://github.com/ceyzarslan/finance_manager](https://github.com/ceyzarslan/finance_manager) 
