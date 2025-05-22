@@ -185,6 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Ceyda Özarslan - [@ceydaozarslan](https://www.linkedin.com/in/ceydaozarslan/)
 
-Project Link: [https://github.com/yourusername/finance_manager](https://github.com/yourusername/finance_manager) 
+Project Link: [https://github.com/ceyzarslan/finance_manager](https://github.com/yourusername/finance_manager) 
